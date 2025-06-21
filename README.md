@@ -20,16 +20,18 @@ __🚀 How to Use:__
 
 __📄 License:__
 
- This project is open-source and uses the MIT License.
+ - This project is open-source and uses the MIT License.
 
- This means you're free to use, modify, and share this code! See the `LICENSE` file for all the details.
+ - This means you're free to use, modify, and share this code! See the `LICENSE` file for all the details.
 
 __📧 Let's Connect:__
 
-Got questions or just want to chat about coding? Feel free to reach out!
+- Got questions or just want to chat about coding? Feel free to reach out!
 
-Name:Faran Inam
+- Name: Faran Inam
 
-Email:faraninam.dev@gmail.com
+- Email: faraninam.dev@gmail.com
 
-Live Demo : https://faraninam.github.io/Color-Picker/
+__▶️ Live Demo:__
+
+- https://faraninam.github.io/Color-Picker/
